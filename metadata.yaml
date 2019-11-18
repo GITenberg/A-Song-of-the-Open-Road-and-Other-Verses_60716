@@ -22,12 +22,17 @@ contributor:
     deathdate: 1933
     gutenberg_agent_id: '48243'
     url: http://www.gutenberg.org/2009/agents/48243
+covers:
+- cover_type: archival
+  image_path: 60716-h/images/i_cover_lg.jpg
 creator:
   author:
     agent_name: McQuilland, Louis J.
     gutenberg_agent_id: '51097'
     url: http://www.gutenberg.org/2009/agents/51097
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60716#A-Song-of-the-Open-Road-and-Other-Verses
 gutenberg_issued: '2019-11-17'
 gutenberg_type: Text
 identifiers:
