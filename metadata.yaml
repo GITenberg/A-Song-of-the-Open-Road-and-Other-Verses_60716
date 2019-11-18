@@ -1,0 +1,42 @@
+_repo: A-Song-of-the-Open-Road-and-Other-Verses_60716
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Chesterton, G. K. (Gilbert Keith)
+    aliases:
+    - Chesterton, Gilbert Keith
+    - Chesterton, Gilbert K. (Gilbert Keith)
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '80'
+    url: http://www.gutenberg.org/2009/agents/80
+    wikipedia: http://en.wikipedia.org/wiki/G._K._Chesterton
+  - agent_name: Chesterton, Cecil
+    birthdate: 1879
+    deathdate: 1918
+    gutenberg_agent_id: '26214'
+    url: http://www.gutenberg.org/2009/agents/26214
+  illustrator:
+    agent_name: Wilson, David Alec
+    birthdate: 1864
+    deathdate: 1933
+    gutenberg_agent_id: '48243'
+    url: http://www.gutenberg.org/2009/agents/48243
+creator:
+  author:
+    agent_name: McQuilland, Louis J.
+    gutenberg_agent_id: '51097'
+    url: http://www.gutenberg.org/2009/agents/51097
+description: ''
+gutenberg_issued: '2019-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60716'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A Song of the Open Road and Other Verses
+url: http://www.gutenberg.org/ebooks/60716
